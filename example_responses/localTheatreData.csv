@@ -1,0 +1,10 @@
+name,path_name,theatre_code,message_start,message_end,message_title,theatre_info_message,address,city,state,postal_code,latitude,longitude,phone_number,pwp_availability,iana_timezone
+Regal Rancho Del Rey,regal-rancho-del-rey-0361,0361,,,,,1025 Tierra Del Rey,Chula Vista,CA,91910,32.6375,-117.0194,(844) 462-7342,True,US/Pacific
+Regal Parkway Plaza,regal-parkway-plaza-0388,0388,,,,,405 Parkway Plaza,El Cajon,CA,92020,32.8036,-116.9676,(844) 462-7342,True,US/Pacific
+Regal Oceanside,regal-oceanside-0708,0708,,,,,401 Mission Ave.,Oceanside,CA,92054,33.195,-117.3798,(844) 462-7342,True,US/Pacific
+Regal Edwards San Marcos,regal-edwards-san-marcos-1034,1034,,,,,1180 W San Marcos Boulevard,San Marcos,CA,92069,33.1337,-117.192,(844) 462-7342,True,US/Pacific
+Regal Edwards Mira Mesa,regal-edwards-mira-mesa-1043,1043,,,,,10733 Westview Parkway,San Diego,CA,92126,32.913,-117.1421,(844) 462-7342,True,US/Pacific
+Regal Edwards Rancho San Diego,regal-edwards-rancho-san-diego-1049,1049,,,,,2951 Jamacha Road,El Cajon,CA,92019,32.7398,-116.9417,(844) 462-7342,True,US/Pacific
+Regal Mission Marketplace,regal-mission-marketplace-1470,1470,,,,,431 College Boulevard,Oceanside,CA,92057,33.24514,-117.29396,(844) 462-7342,True,US/Pacific
+Regal Carlsbad,regal-carlsbad-1778,1778,,,,,2501 El Camino Real,Carlsbad,CA,92008,33.1786,-117.329,(844) 462-7342,False,US/Pacific
+Regal Escondido,regal-escondido-1805,1805,,,,,350 W Valley Parkway,Escondido,CA,92025,33.121,-117.086,(844) 462-7342,True,US/Pacific
