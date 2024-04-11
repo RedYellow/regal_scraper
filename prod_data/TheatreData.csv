@@ -1,0 +1,436 @@
+name,path_name,theatre_code,address,city,state,postal_code,latitude,longitude,phone_number,pwp_availability,iana_timezone,value_day_text,unlimited_tier
+Regal Aviation Mall,regal-aviation-mall-1731,1731,578 Aviation Rd,Queensbury,NY,12804,43.3281,-73.6802,(844) 462-7342,False,US/Eastern,$6.50 every Tuesday,3
+Regal Fossil Creek,regal-fossil-creek-1317,1317,N. 6100 Freeway,Ft Worth,TX,76137,32.8532,-97.3123,(844) 462-7342,True,US/Central,$5.00 every Tuesday,1
+Regal The Landing,regal-the-landing-1935,1935,900 N 10th Place,Renton,WA,98057,47.4982,-122.2042,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Warren Midwest City,regal-midwest-city-1482,1482,5905 SE 15th Street,Midwest City,OK,73110,35.45315,-97.4182,(844) 462-7342,True,US/Central,$5.50 every Tuesday,2
+Regal North Hollywood,regal-north-hollywood-1438,1438,"6150 Laurel Canyon Blvd., #200",North Hollywood,CA,91606,34.18134,-118.39414,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal UA Washington Township,regal-ua-washington-township-1281,1281,121 Tuckahoe Road,Sewell,NJ,08080,39.7224,-75.0309,(844) 462-7342,False,US/Eastern,$6.50 every Tuesday,2
+Regal Santa Rosa,regal-santa-rosa-1195,1195,300 Mary Esther Blvd.,Mary Esther,FL,32569,30.4145,-86.6541,(844) 462-7342,True,US/Central,$5.50 every Tuesday,1
+Regal Hunt Valley,regal-hunt-valley-1711,1711,11511 McCormick Rd,Hunt Valley,MD,21030,39.4994,-76.6562,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal San Jacinto Metro,regal-san-jacinto-metro-1804,1804,1599 San Jacinto Ave,San Jacinto,CA,92583,33.7723,-116.9566,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal UA Cottonwood,regal-ua-cottonwood-1307,1307,10000 NW Coors Blvd.,Albuquerque,NM,87114,35.1925,-106.6554,(844) 462-7342,True,US/Mountain,$6.00 every Tuesday,2
+Regal UA Main Street,regal-ua-main-street-theatre-1314,1314,3720-40 Main Street,Manayunk,PA,19127,40.0153,-75.2097,(844) 462-7342,False,US/Eastern,$6.50 every Tuesday,2
+Regal Winter Park Village,regal-winter-park-village-0721,0721,510 North Orlando Ave,Winter Park,FL,32789,28.603,-81.365,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Champlain Centre,regal-champlain-centre-1734,1734,"60 Smithfield Blvd, Suite 90",Plattsburgh,NY,12901,44.7023,-73.4951,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Salmon Run,regal-salmon-run-1946,1946,21182 Salmon Run Mall Loop W,Watertown,NY,13601,43.9756,-75.9005,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,2
+Regal Escondido,regal-escondido-1805,1805,350 W Valley Parkway,Escondido,CA,92025,33.121,-117.086,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,3
+Regal Westchester Commons,regal-westchester-commons-1936,1936,361 Perimeter Drive,Midlothian,VA,23114,37.5117,-77.697,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal San Bernardino,regal-san-bernardino-1799,1799,450 N. E Street,San Bernardino,CA,92401,34.1083,-117.2942,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,1
+Regal New River Valley,regal-new-river-valley-0671,0671,110 New River Road,Christianburg,VA,24073,37.1653,-80.4244,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal UA Commerce Township,regal-ua-commerce-township-1294,1294,3033 Springvale Drive,Walled Lake,MI,48390,42.527,-83.4374,(844) 462-7342,True,US/Eastern,$5.00 every Tuesday,1
+Regal Greenwood,regal-greenwood-1794,1794,461 Greenwood Park South Drive,Greenwood,IN,46142,39.6311,-86.1066,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal City North,regal-city-north-1789,1789,2600 N. Western Avenue,Chicago,IL,60647,41.9287,-87.688,(844) 462-7342,True,US/Central,$6.50 every Tuesday,2
+Regal Plymouth Meeting,regal-plymouth-meeting-0234,0234,1011 Ridge Pike,Conshohocken,PA,19428,40.0994,-75.3061,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal UA Farmingdale,regal-ua-farmingdale-1319,1319,20 Michael Avenue,Farmingdale,NY,11735,40.7258,-73.4246,(844) 462-7342,False,US/Eastern,$7.50 every Tuesday,3
+Regal Citrus Cinemas,regal-citrus-cinemas-0206,0206,2635 E. Gulf to Lake Highway,Inverness,FL,34453,28.8553,-82.3978,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Cinebarre Movieland,regal-cinebarre-movieland-1959,1959,501 Marion Street N.E.,Salem,OR,97301,44.9586,-123.0026,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,2
+Regal Yorba Linda,regal-yorba-linda-1430,1430,4870 Valencia Ave.,Yorba Linda,CA,92886,33.8904,-117.81191,(844) 462-7342,False,US/Pacific,$5.50 every Tuesday,2
+Regal Cinebarre Palace Station,regal-cinebarre-palace-station-1463,1463,2411 W. Sahara Ave,Las Vegas,NV,89102,36.1442,-115.17414,(844) 462-7342,True,US/Pacific,$7.00 every Tuesday,1
+Regal Cascade,regal-cascade-0845,0845,1101 SE 160th Avenue,Vancouver,WA,98683,45.6127,-122.5077,(844) 462-7342,True,US/Pacific,$5.00 every Tuesday,2
+Regal Sherman Oaks Galleria,regal-sherman-oaks-galleria-1483,1483,"15301 Ventura Blvd. Bldg A, 3rd Floor, Suite 300",Sherman Oaks,CA,91403,34.15644,-118.46705,(844) 462-7342,True,US/Pacific,$7.00 every Tuesday,3
+Regal Tikahtnu,regal-tikahtnu-1994,1994,1102 North Muldoon Rd Suite B,Anchorage,AK,99504,61.2045,-149.7485,(844) 462-7342,True,US/Alaska,$6.50 every Tuesday,2
+Regal LA Live,regal-la-live-1484,1484,1000 W Olympic Boulevard,Los Angeles,CA,90015,34.0461,-118.267,(844) 462-7342,True,US/Pacific,$7.00 every Tuesday,3
+Regal Kapolei Commons,regal-kapolei-commons-1951,1951,4450 Kapolei Parkway Suite 500,Kapolei,HI,96707,21.3305,-158.09419,(844) 462-7342,True,US/Hawaii,$6.50 every Tuesday,2
+Regal Jack London,regal-jack-london-1808,1808,100 Washington Street,Oakland,CA,94607,37.7963,-122.2773,(844) 462-7342,True,US/Pacific,$5.50 every Sunday & Tuesday,2
+Regal Galleria Mall,regal-galleria-mall-1740,1740,2001 South Road,Poughkeepsie,NY,12601,41.6268,-73.9194,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,3
+Regal Streets of Indian Lake,regal-streets-of-indian-lake-1926,1926,"300 Indian Lake Blvd, Blding T",Hendersonville,TN,37075,36.3297,-86.5905,(844) 462-7342,True,US/Central,$6.00 every Tuesday,1
+Regal Manassas,regal-manassas-1751,1751,11380 Bulloch Dr,Manassas,VA,20109,38.8026,-77.5305,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Virginia Gateway,regal-virginia-gateway-1675,1675,8001 Gateway Promenade Place,Gainesville,VA,20155,38.7891,-77.6068,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Stonefield,regal-stonefield-1969,1969,1954 Swanson Drive,Charlottesville,VA,22901,38.0656,-78.4932,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,3
+Regal Marketplace @ El Paseo,regal-marketplace-at-el-paseo-1433,1433,6455 N. Riverside Drive,Fresno,CA,93722,36.83414,-119.91108,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Dania Pointe,regal-dania-pointe-1474,1474,128 Sunset Drive,Dania Beach,FL,33004,26.0536,-80.16119,(844) 462-7342,True,US/Eastern,$7.50 every Tuesday,2
+Regal UA Galaxy - Dallas,regal-ua-galaxy-theatre-dallas-1306,1306,11801 Mccree Road,Dallas,TX,75238,32.8726,-96.687,(844) 462-7342,True,US/Central,$6.50 every Tuesday,1
+Regal Mission Marketplace,regal-mission-marketplace-1470,1470,431 College Boulevard,Oceanside,CA,92057,33.24514,-117.29396,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,1
+Regal The Loop,regal-the-loop-0687,0687,3232 N. John Young Parkway,Kissimmee,FL,34741,28.3438,-81.4246,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal UA Galaxy - Indianapolis,regal-ua-galaxy-indianapolis-1299,1299,8105 E. 96Th Street,Indianapolis,IN,46256,39.925,-86.0261,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Stonestown Galleria,regal-stonestown-galleria-1464,1464,3251 20th Avenue,San Francisco,CA,94132,37.72817,-122.47755,(844) 462-7342,True,US/Pacific,$7.50 every Tuesday,3
+Regal Winrock,regal-winrock-1992,1992,"2100 Louisina Blvd NE, Bld 400",Albuquerque,NM,87110,35.0977,-106.5665,(844) 462-7342,True,US/Mountain,$6.25 every Tuesday,1
+Regal Pointe Orlando,regal-pointe-orlando-1938,1938,"9101 International Dr, St 2100",Orlando,FL,32819,28.4313,-81.4717,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal West Tower,regal-west-tower-cinemas-1226,1226,8998 West Broad Street,Richmond,VA,23294,37.6345,-77.546,(844) 462-7342,False,US/Eastern,$6.50 every Tuesday,2
+Regal UA Oxford Valley,regal-ua-oxford-valley-1269,1269,403 Middletown Blvd,Langhorne,PA,19047,40.186,-74.8779,(844) 462-7342,False,US/Eastern,$5.00 every Tuesday,2
+Regal Solomon Pond,regal-solomon-pond-1721,1721,591 Donald J Lynch Blvd,Marlborough,MA,01752,42.353,-71.6145,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,3
+Regal Thornton Place,regal-thornton-place-1937,1937,316 NE Thornton Place,Seattle,WA,98125,47.7031,-122.3256,(844) 462-7342,True,US/Pacific,$7.00 every Tuesday,2
+Regal Heartland,regal-heartland-1643,1643,300 Early Blvd,Early,TX,76801,31.7343,-98.9648,(844) 462-7342,True,US/Central,$5.50 every Tuesday,1
+Regal Treasure Coast Mall,regal-treasure-coast-mall-0731,0731,3290 North West Federal Highwy,Jensen Beach,FL,34957,27.2434,-80.2687,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal River Point,regal-river-point-1943,1943,3565 South Platte River Drive,Sheridan,CO,80110,39.6529,-105.0084,(844) 462-7342,True,US/Mountain,$7.00 every Tuesday,2
+Regal Strawbridge Marketplace,regal-strawbridge-marketplace-0235,0235,2133 General Booth Blvd.,Virginia Beach,VA,23454,36.7642,-76.0156,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal Issaquah Highlands,regal-issaquah-highlands-1942,1942,940 NE Park Drive,Issaquah,WA,98029,47.5559,-122.0015,(844) 462-7342,True,US/Pacific,$7.00 every Tuesday,2
+Regal Essex Crossing,regal-essex-crossing-1412,1412,129 Delancey Street,New York,NY,10002,40.71823,-73.98812,(844) 462-7342,False,US/Eastern,$8.00 every Tuesday,3
+Regal Hazleton,regal-hazleton-1749,1749,400 Laurel Mall,Hazleton,PA,18202,40.982,-76.0257,(844) 462-7342,False,US/Eastern,$7.00 every Tuesday,1
+Regal Santa Fe Place,regal-santa-fe-place-1465,1465,4250 Cerrillos Rd,Santa Fe,NM,87507,35.63558,-106.01381,(844) 462-7342,False,US/Mountain,$7.00 every Tuesday,2
+Regal Coldwater Crossing,regal-coldwater-crossing-0169,0169,211 West Washington Center Rd,Fort Wayne,IN,46825,41.1325,-85.1415,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Benders Landing,regal-benders-landing-screenx-1469,1469,4495 Riley Fuzzel Road,Spring,TX,77386,30.12143,-95.37575,(844) 462-7342,True,US/Central,$5.50 every Tuesday,1
+Regal Bricktown Charleston,regal-bricktown-charleston-1419,1419,165 Bricktown Way,Staten Island,NY,10309,40.5303,-74.23027,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,3
+Regal Marysville,regal-marysville-0298,0298,9811 State Avenue,Marysville,WA,98270,48.0843,-122.1713,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal River Ridge,regal-river-ridge-1995,1995,3411 Candlers Mountain Road,Lynchburg,VA,24502,37.3674,-79.1747,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Key West,regal-key-west-0412,0412,3338 N. Roosevelt Blvd.,Key West,FL,33040,24.56998,-81.76304,(844) 462-7342,False,US/Eastern,$7.00 every Tuesday,3
+Regal Arroyo Grande,regal-arroyo-grande-1812,1812,1160 W Branch Street,Arroyo Grande,CA,93420,35.1284,-120.5989,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Fishkill,regal-fishkill-1739,1739,18 Westage Business Center,Fishkill,NY,12524,41.5393,-73.9008,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Hamburg Pavilion,regal-hamburg-pavilion-0728,0728,1949 Starshoot Road,Lexington,KY,40509,38.021,-84.419,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Cinebarre Mountlake,regal-cinebarre-mountlake-1958,1958,24220 Van Ry Blvd,Mountlake Terrace,WA,98043,47.7922,-122.3072,(844) 462-7342,True,US/Pacific,$7.00 every Tuesday,2
+Regal UA Grant Plaza,regal-ua-grant-plaza-1290,1290,1619 Grant Avenue,Philadelphia,PA,19115,40.0855,-75.0388,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal UA La Canada,regal-ua-la-canada-1270,1270,1919 Verdugo Blvd,La Canada,CA,91011,34.2056,-118.2145,(844) 462-7342,False,US/Pacific,$7.00 every Tuesday,3
+Regal Columbus,regal-columbus-0718,0718,104 Constitution Drive,Virginia Beach,VA,23462,36.8401,-76.1314,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Cielo Vista,regal-cielo-vista-0765,0765,2828 Cinema Ridge,San Antonio,TX,78238,29.4675,-98.6154,(844) 462-7342,True,US/Central,$5.00 every Tuesday,1
+Regal Vancouver Plaza,regal-vancouver-plaza-0843,0843,7800  N.E. Fourth Plain,Vancouver,WA,98662,45.6488,-122.5956,(844) 462-7342,True,US/Pacific,$5.00 every Tuesday,2
+Regal Promenade,regal-promenade-0748,0748,"550 Deep Valley Dr, Suite 336",Rolling Hills Est,CA,90274,33.7709,-118.3717,(844) 462-7342,False,US/Pacific,$6.00 every Tuesday,3
+Regal Cobblestone Square,regal-cobblestone-square-0755,0755,5500 Cobblestone Road,Elyria,OH,44035,41.4191,-82.0827,(844) 462-7342,True,US/Eastern,$5.50 every Tuesday,1
+Regal Tangram,regal-tangram-4dx-1472,1472,133-36 37th Avenue,Flushing,NY,11354,40.76047,-73.83369,(844) 462-7342,False,US/Eastern,$7.00 every Tuesday,3
+Regal Sunset Station,regal-sunset-station-0838,0838,1301-A W Sunset Road,Henderson,NV,89014,36.0636,-115.0426,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Oceanside,regal-oceanside-0708,0708,401 Mission Ave.,Oceanside,CA,92054,33.195,-117.3798,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,3
+Regal Lloyd Center,regal-lloyd-center-0807,0807,1510 NE Multnomah Street,Portland,OR,97232,45.5309,-122.6512,(844) 462-7342,False,US/Pacific,$6.00 every Tuesday,2
+Regal Huebner Oaks,regal-huebner-oaks-0581,0581,11075 W Interstate 10  Ste 1H,San Antonio,TX,78230,29.5487,-98.5849,(844) 462-7342,True,US/Central,$5.00 every Tuesday,1
+Regal Cypress Creek Station,regal-cypress-creek-station-0529,0529,6415 N. Andrews Avenue,Ft Lauderdale,FL,33309,26.2055,-80.1473,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal Hollywood - Greenville,regal-hollywood-greenville-0488,0488,1029 Woodruff Road,Greenville,SC,29607,34.8336,-82.3049,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal McCain Mall,regal-mccain-mall-0541,0541,3929 McCain Boulevard,North Little Rock,AR,72116,34.793,-92.2267,(844) 462-7342,True,US/Central,$5.50 every Tuesday,1
+Regal Three Rivers Mall,regal-three-rivers-mall-0599,0599,341 Three Rivers Drive,Kelso,WA,98626,46.1386,-122.9001,(844) 462-7342,True,US/Pacific,$5.50 every Tuesday,2
+Regal Eastview Mall,regal-eastview-mall-0501,0501,70 Eastview Mall Drive,Victor,NY,14564,43.0296,-77.4395,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Naples,regal-naples-0465,0465,6006 Hollywood Drive,Naples,FL,34109,26.2201,-81.7713,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,3
+Regal Goldstream,regal-goldstream-0601,0601,1855 Airport Way,Fairbanks,AK,99701,64.8369,-147.7578,(844) 462-7342,True,US/Alaska,$6.50 every Tuesday,3
+Regal Sawgrass,regal-sawgrass-0442,0442,2600  Northwest 136th Avenue,Sunrise,FL,33323,26.1569,-80.3214,(844) 462-7342,True,US/Eastern,$5.00 every Tuesday,1
+Regal Lone Star,regal-lone-star-1441,1441,24720 Tomball Parkway,Tomball,TX,77375,30.0415,-95.6052,(844) 462-7342,True,US/Central,$5.50 every Tuesday,1
+Regal Carrollton,regal-carrollton-1420,1420,1135 Bankhead Highway,Carrollton,GA,30116,33.5933,-85.038,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Largo Mall,regal-largo-mall-0446,0446,"10500 Ulmerton Road East, #500",Largo,FL,33771,27.8946,-82.7845,(844) 462-7342,True,US/Eastern,$5.00 every Tuesday,1
+Regal Warren West,regal-warren-west-1443,1443,9150 W 21st St.,Wichita,KS,67205,37.7242,-97.4478,(844) 462-7342,True,US/Central,$5.00 every Tuesday,1
+Regal Dawson,regal-dawson-1422,1422,189 North 400 Center Lane,Dawsonville,GA,30534,34.3689,-84.0356,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Warren East,regal-warren-east-1444,1444,11611 E. 13th St.,Wichita,KS,67206,37.7057,-97.2026,(844) 462-7342,True,US/Central,$5.00 every Tuesday,1
+Regal Atlantic Station,regal-atlantic-station-1346,1346,"261 19th Street NW, Suite 1250",Atlanta,GA,30363,33.7938,-84.396,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Janss Marketplace,regal-janss-marketplace-1418,1418,255 North Moorpark Road,Thousand Oaks,CA,91360,34.1828,-118.8792,(844) 462-7342,False,US/Pacific,$6.50 every Tuesday,2
+Regal Cherokee,regal-cherokee-1423,1423,355 Cinema View,Woodstock,GA,30189,34.1076,-84.543,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Independence Plaza,regal-independence-plaza-1417,1417,2465 South Broad Street,Hamilton,NJ,08610,40.192,-74.7218,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,1
+Regal Davis Holiday,regal-davis-holiday-1814,1814,101 F Street,Davis,CA,95616,38.5424,-121.74,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,2
+Regal Delta Shores,regal-delta-shores-1413,1413,8136 Delta Shores Circle,Sacramento,CA,95832,38.4652,-121.4939,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Brandywine Town Center,regal-brandywine-town-center-0509,0509,3300 Brandywine Parkway,Wilmington,DE,19803,39.8325,-75.5361,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,2
+Regal Simpsonville,regal-simpsonville-1517,1517,780 South Street,Simpsonville,SC,29681,34.7213,-82.2551,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Dickson City,regal-dickson-city-1515,1515,3909 Commerce Boulevard,Dickson City,PA,18519,41.4599,-75.6464,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Sandhill,regal-sandhill-1855,1855,450 Town Center Place,Columbia,SC,29229,34.1118,-80.8577,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Edwards Temecula,regal-edwards-temecula-1045,1045,40750 Winchester Road,Temecula,CA,92591,33.5251,-117.1521,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,2
+Regal UA Westbrook,regal-ua-westbrook-1204,1204,454 Brookway Blvd.,Brookhaven,MS,39601,31.5801,-90.4496,(844) 462-7342,False,US/Central,$5.50 every Tuesday,1
+Regal Edwards Greenway Grand Palace,regal-edwards-greenway-grand-palace-1051,1051,3839 Weslayan Street,Houston,TX,77027,29.73112,-95.44134,(844) 462-7342,True,US/Central,$6.00 every Tuesday,2
+Regal Auburn - California,regal-auburn-california-1823,1823,500 Nevada Street,Auburn,CA,95603,38.9134,-121.079,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,2
+Regal UA Clovis,regal-ua-clovis-movies-1185,1185,2301 Villa Ave,Clovis,CA,93612,36.8059,-119.7121,(844) 462-7342,True,US/Pacific,$5.50 every Tuesday,1
+Regal Pearl Highlands,regal-pearl-highlands-1827,1827,1000 Kamehameha Hwy #231,Pearl City,HI,96782,21.398,-157.97591,(844) 462-7342,True,US/Hawaii,$6.50 every Tuesday,2
+Regal North Hills,regal-north-hills-1846,1846,4150 Main at North Hills St,Raleigh,NC,27609,35.834,-78.638,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Edwards Canyon Country,regal-edwards-canyon-country-1047,1047,18800 Soledad Canyon Road,Santa Clarita,CA,91351,34.4156,-118.4647,(844) 462-7342,False,US/Pacific,$7.00 every Tuesday,3
+Regal Edwards Ontario Palace,regal-edwards-ontario-palace-1026,1026,4900 East 4th Street,Ontario,CA,91764,34.0767,-117.5486,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,2
+Regal Edwards Kaleidoscope,regal-edwards-kaleidoscope-1035,1035,27741 Crown Valley Pkwy #301,Mission Viejo,CA,92691,33.5638,-117.6605,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,3
+Regal Windward,regal-windward-1829,1829,46-056 Kamehameha Hwy SPC N6,Kaneohe,HI,96744,21.4244,-157.8064,(844) 462-7342,True,US/Hawaii,$6.50 every Tuesday,2
+Regal Edwards Alhambra Renaissance,regal-edwards-alhambra-renaissance-1053,1053,1 East Main Street,Alhambra,CA,91801,34.0958,-118.1265,(844) 462-7342,False,US/Pacific,$7.00 every Tuesday,3
+Regal Edwards Nampa Spectrum,regal-edwards-nampa-spectrum-1039,1039,2001 North Cassia Street,Nampa,ID,83651,43.601,-116.602,(844) 462-7342,True,US/Mountain,$5.50 every Tuesday,1
+Regal Edwards Market Place,regal-edwards-market-place-1048,1048,13782 Jamboree Road,Irvine,CA,92602,33.7233,-117.7902,(844) 462-7342,True,US/Pacific,$7.00 every Tuesday,3
+Regal Fresno River Park,regal-fresno-river-park-1033,1033,250 Paseo Del Centro,Fresno,CA,93720,36.8508,-119.7898,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Edwards South Gate,regal-edwards-south-gate-1044,1044,8630 Garfield Avenue,South Gate,CA,90280,33.953,-118.163,(844) 462-7342,False,US/Pacific,$6.50 every Sunday & Tuesday,2
+Regal Edwards Ontario Mountain Village,regal-edwards-ontario-mountain-village-1037,1037,1575 North Mountain Avenue,Ontario,CA,91762,34.0862,-117.6705,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,2
+Regal UA Midway,regal-ua-midway-1143,1143,108-22 Queens Blvd,Forest Hills,NY,11375,40.7209,-73.8442,(844) 462-7342,False,US/Eastern,$7.50 every Tuesday,3
+Regal Augusta Exchange,regal-augusta-exchange-0724,0724,1144 Agerton Lane,Augusta,GA,30909,33.4884,-82.0781,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Turlock,regal-turlock-1819,1819,2323 W Main,Turlock,CA,95380,37.4941,-120.8751,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Fox,regal-fox-1869,1869,22875 Brambleton Plaza,Ashburn,VA,20148,38.9872,-77.5293,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,2
+Regal Northstar,regal-northstar-1622,1622,201  N Northpark Lane,Joplin,MO,64801,37.098,-94.4684,(844) 462-7342,True,US/Central,$6.00 every Tuesday,1
+Regal Modesto,regal-modesto-1818,1818,3969 McHenry Blvd,Modesto,CA,95356,37.6959,-120.9958,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Old Mill,regal-old-mill-0758,0758,680 SW Powerhouse Drive,Bend,OR,97702,44.0393,-121.3265,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Ukiah,regal-ukiah-1813,1813,612 S State Street,Ukiah,CA,95482,39.1466,-123.2056,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Hollywood @ North I-85,regal-hollywood-north-i-85-0745,0745,3265 N.E. Expressway Access,Chamblee,GA,30341,33.863,-84.2887,(844) 462-7342,True,US/Eastern,$5.00 every Tuesday,2
+Regal Albany,regal-albany-cinemas-0833,0833,1350 SE Waverly Drive,Albany,OR,97322,44.6295,-123.0721,(844) 462-7342,True,US/Pacific,$5.75 every Tuesday,1
+Regal Times Square,regal-times-square-1929,1929,247 W. 42nd St.,New York,NY,10036,40.7565,-73.9883,(844) 462-7342,True,US/Eastern,$8.00 every Tuesday,3
+Regal Boulder Station,regal-boulder-station-0837,0837,4111 Boulder Highway,Las Vegas,NV,89121,36.1319,-115.0851,(844) 462-7342,True,US/Pacific,$5.50 every Tuesday,2
+Regal Providence,regal-providence-1890,1890,"401 S. Mt Juliet Rd, Suite 490",Mt Juliet,TN,37122,36.1652,-86.5075,(844) 462-7342,True,US/Central,$6.50 every Tuesday,2
+Regal Edwards West Covina,regal-edwards-west-covina-1030,1030,1200 Lakes Drive,West Covina,CA,91790,34.0699,-117.9218,(844) 462-7342,False,US/Pacific,$5.50 every Tuesday,1
+Regal Town Center - Port Charlotte,regal-town-center-port-charlotte-0723,0723,"1441 Tamiami Trail, Unit 701",Port Charlotte,FL,33948,27.011,-82.142,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Brier Creek,regal-brier-creek-1843,1843,8611 Brier Creek Parkway,Raleigh,NC,27617,35.9041,-78.7837,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Fredericksburg,regal-fredericksburg-0712,0712,3301 Plank Road Route 3W,Fredericksburg,VA,22401,38.2961,-77.5168,(844) 462-7342,True,US/Eastern,$5.00 every Tuesday,2
+Regal UA Colorado Mills,regal-ua-colorado-mills-1550,1550,"14500 W. Colfax Ave, Suite 600",Lakewood,CO,80401,39.73,-105.16,(844) 462-7342,True,US/Mountain,$6.00 every Tuesday,2
+Regal Noblesville,regal-noblesville-1523,1523,10075 Town & Country Blvd,Noblesville,IN,46060,40.0368,-85.9952,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Edwards Fairfield,regal-edwards-fairfield-1046,1046,1549 Gateway Boulevard,Fairfield,CA,94533,38.2632,-122.0551,(844) 462-7342,True,US/Pacific,$5.50 every Tuesday,2
+Regal Edwards Grand Teton,regal-edwards-grand-teton-1040,1040,2707 South 25th East,Ammon,ID,83406,43.47512,-111.98264,(844) 462-7342,True,US/Mountain,$6.00 every Tuesday,1
+Regal Hollywood - Merced,regal-hollywood-merced-1607,1607,403 W. Main,Merced,CA,95340,37.301,-120.4819,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal UA East Hampton,regal-ua-east-hampton-cinema-1138,1138,30 Main Street,East Hampton,NY,11937,40.9637,-72.1855,(844) 462-7342,False,US/Eastern,$7.50 every Tuesday,3
+Regal UA Falls,regal-ua-falls-1149,1149,9000 S.W. 136Th Street,Miami,FL,33176,25.6431,-80.3393,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal Natomas Marketplace,regal-natomas-marketplace-0774,0774,3561 Truxel Road,Sacramento,CA,95834,38.6347,-121.5025,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,2
+Regal Maui Mall,regal-maui-mall-megaplex-1614,1614,70 E. Kaahnumanu Ave Suite A,Kahului,HI,96732,20.8822,-156.47549,(844) 462-7342,True,US/Hawaii,$6.50 every Tuesday,2
+Regal Franklin Square,regal-franklin-square-1845,1845,3778 East Franklin Blvd,Gastonia,NC,28054,35.2601,-81.1103,(844) 462-7342,True,US/Eastern,$5.50 every Tuesday,1
+Regal Movies On TV,regal-movies-on-tv-0855,0855,SW 2929 234th Avenue,Hillsboro,OR,97123,45.4987,-122.9184,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,2
+Regal Edwards Rancho San Diego,regal-edwards-rancho-san-diego-1049,1049,2951 Jamacha Road,El Cajon,CA,92019,32.7398,-116.9417,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,3
+Regal Manor,regal-manor-0754,0754,1246 Millersville Pike,Lancaster,PA,17603,40.0272,-76.3266,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,2
+Regal Sonora,regal-sonora-1826,1826,901 Sanguinetti Road,Sonora,CA,95370,37.9736,-120.3705,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Governor's Square,regal-governors-square-1857,1857,1501 Governor's Square Blvd,Tallahassee,FL,32301,30.4381,-84.2578,(844) 462-7342,True,US/Eastern,$5.00 every Tuesday,1
+Regal SouthGlenn,regal-southglenn-1610,1610,6901 S. Vine Street,Centennial,CO,80122,39.5938,-104.9625,(844) 462-7342,True,US/Mountain,$6.50 every Tuesday,2
+Regal Clarksville,regal-clarksville-1534,1534,1810 Tiny Town Road,Clarksville,TN,37042,36.6276,-87.3259,(844) 462-7342,True,US/Central,$6.00 every Tuesday,1
+Regal Alamo Quarry,regal-alamo-quarry-0939,0939,255 E.Basse,San Antonio,TX,78209,29.4993,-98.4798,(844) 462-7342,True,US/Central,$5.00 every Tuesday,1
+Regal Short Pump,regal-short-pump-0730,0730,11650 West Broad Street,Richmond,VA,23233,37.6532,-77.6136,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Cherrydale,regal-cherrydale-1885,1885,3221 N. Pleasantburg Drive,Greenville,SC,29609,34.8899,-82.4007,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Hyattsville Royale,regal-hyattsville-royale-1863,1863,6505 America Boulevard,Hyattsville,MD,20782,38.9679,-76.9597,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal Gallery Place,regal-gallery-place-4dx-1551,1551,701 Seventh Street Northwest,Washington,DC,20001,38.8976,-77.0245,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,2
+Regal Beaver Creek,regal-beaver-creek-1878,1878,1441 Beaver Creek Commons Dr.,Apex,NC,27502,35.7454,-78.8799,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Live Oak,regal-live-oak-rpx-0795,0795,7901 Pat Booker Road,Live Oak,TX,78233,29.562,-98.3314,(844) 462-7342,True,US/Central,$5.00 every Tuesday,1
+Regal Edwards Bakersfield,regal-edwards-bakersfield-1031,1031,9000-G Ming Avenue,Bakersfield,CA,93311,35.3393,-119.1017,(844) 462-7342,True,US/Pacific,$5.50 every Tuesday,1
+Regal Medina,regal-medina-0707,0707,200 West Reagan Pkwy,Medina,OH,44256,41.1562,-81.8752,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Spotlight,regal-spotlight-1628,1628,1100 N. Interstate Dr,Norman,OK,73072,35.2314,-97.486,(844) 462-7342,True,US/Central,$6.00 every Tuesday,2
+Regal Harrisonburg,regal-harrisonburg-0735,0735,381 University Blvd.,Harrisonburg,VA,22801,38.4303,-78.86,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,2
+Regal Westfork,regal-westfork-0709,0709,15977 Pines Blvd. on Dykes Roa,Pembroke Pines,FL,33027,26.0077,-80.3605,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal Deerfield Town Center,regal-deerfield-town-center-rpx-1901,1901,5500 Deerfield Blvd,Mason,OH,45040,39.3079,-84.3166,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Swamp Fox,regal-swamp-fox-1854,1854,3400 Radio Road,Florence,SC,29501,34.1923,-79.8317,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Waterford Lakes,regal-waterford-lakes-0734,0734,541 North Alafaya Trail,Orlando,FL,32828,28.5558,-81.2004,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Trussville,regal-trussville-0760,0760,5895 Trussville Crossings Pkwy,Birmingham,AL,35235,33.6378,-86.6313,(844) 462-7342,True,US/Central,$6.50 every Tuesday,1
+Regal UA Lee Hills,regal-ua-lee-hills-1200,1200,1350 Boone St,Leesville,LA,71446,31.122,-93.2724,(844) 462-7342,False,US/Central,$5.50 every Tuesday,1
+Regal Alderwood,regal-alderwood-rpx-0909,0909,3501 184th St. SW,Lynnwood,WA,98037,47.8323,-122.2793,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Edwards Big Newport,regal-edwards-big-newport-rpx-1024,1024,300 Newport Center Drive East,Newport Beach,CA,92660,33.611,-117.8754,(844) 462-7342,True,US/Pacific,$7.00 every Tuesday,3
+Regal Lakewood,regal-lakewood-rpx-0887,0887,2410 South 84th Street,Lakewood,WA,98499,47.1811,-122.4672,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Southwind,regal-southwind-1618,1618,3433 Iowa Street,Lawrence,KS,66046,38.9221,-95.2601,(844) 462-7342,True,US/Central,$5.50 every Tuesday,1
+Regal Hamilton Mill,regal-hamilton-mill-1535,1535,2160 Hamilton Creek Parkway,Dacula,GA,30019,34.0707,-83.9081,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal Totem,regal-totem-0918,0918,3131 Muldoon Road,Anchorage,AK,99504,61.1928,-149.7334,(844) 462-7342,True,US/Alaska,$5.50 every Tuesday,1
+Regal Greensboro Grande,regal-greensboro-grande-rpx-1875,1875,3205 Northline Avenue,Greensboro,NC,27408,36.0884,-79.8371,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Hilltop,regal-hilltop-cinema-0853,0853,325 Beavercreek Road,Oregon City,OR,97045,45.3346,-122.5938,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,2
+Regal Northwoods,regal-northwoods-0940,0940,17640 Henderson Pass,San Antonio,TX,78232,29.6041,-98.4641,(844) 462-7342,True,US/Central,$5.00 every Tuesday,1
+Regal City Center,regal-city-center-0847,0847,801 C Street,Vancouver,WA,98660,45.6275,-122.668,(844) 462-7342,True,US/Pacific,$5.00 every Tuesday,2
+Regal Lebanon Valley,regal-lebanon-valley-1516,1516,2200 Lebanon Valley Mall Rd,Lebanon,PA,17042,40.3405,-76.4534,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,1
+Regal Poulsbo,regal-poulsbo-0880,0880,750 NW Edvard Street,Poulsbo,WA,98370,47.744,-122.6558,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Edwards Aliso Viejo,regal-edwards-aliso-viejo-1032,1032,26701 Aliso Creek Road,Aliso Viejo,CA,92656,33.5548,-117.7135,(844) 462-7342,True,US/Pacific,$7.00 every Tuesday,3
+Regal Valley Mall,regal-valley-mall-screenx-1908,1908,17301 Valley Mall Road,Hagerstown,MD,21740,39.6236,-77.7692,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,1
+Regal West Manchester,regal-west-manchester-0395,0395,455 Town Center Drive,York,PA,17408,39.9718,-76.7763,(844) 462-7342,True,US/Eastern,$6.75 every Tuesday,1
+Regal Moorestown Mall,regal-moorestown-mall-rpx-1917,1917,400 Route 38,Moorestown,NJ,08057,39.9442,-74.9682,(844) 462-7342,False,US/Eastern,$6.50 every Tuesday,2
+Regal Westgate,regal-westgate-0953,0953,4477 South Lamar Blvd.,Austin,TX,78745,30.2315,-97.8005,(844) 462-7342,True,US/Central,$6.00 every Tuesday,1
+Regal Gateway,regal-gateway-0949,0949,9700 Stonelake Blvd,Austin,TX,78759,30.3878,-97.7396,(844) 462-7342,True,US/Central,$6.50 every Tuesday,1
+Regal Dimond Center,regal-dimond-center-cinemas-0922,0922,"800 E. Dimond  Blvd, Suite 210",Anchorage,AK,99515,61.1447,-149.86771,(844) 462-7342,True,US/Alaska,$6.50 every Tuesday,2
+Regal Massillon,regal-massillon-1512,1512,175 Cherry Rd NW,Massillon,OH,44646,40.7994,-81.529,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Crossroads - Cary,regal-crossroads-cary-1874,1874,501 Caitboo Avenue,Cary,NC,27518,35.76,-78.7355,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Harbour View Grande,regal-harbour-view-grande-1866,1866,5860 Harbour View Boulevard,Suffolk,VA,23435,36.8644,-76.4469,(844) 462-7342,True,US/Eastern,$5.50 every Tuesday,1
+Regal Biltmore Grande,regal-biltmore-grande-rpx-1892,1892,292 Thetford Street,Asheville,NC,28803,35.4838,-82.5565,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Evergreen Parkway,regal-evergreen-parkway-rpx-0850,0850,2625 NE 106th Ave,Hillsboro,OR,97124,45.5408,-122.8686,(844) 462-7342,True,US/Pacific,$6.25 every Tuesday,2
+Regal Edwards Cerritos,regal-edwards-cerritos-1018,1018,12761 Towne Center Drive,Cerritos,CA,90701,33.8697,-118.057,(844) 462-7342,False,US/Pacific,$6.50 every Tuesday,3
+Regal Meridian,regal-meridian-4dx-1931,1931,1501 7th Ave.,Seattle,WA,98101,47.6121,-122.332,(844) 462-7342,True,US/Pacific,$7.00 every Tuesday,2
+Regal Edwards Boise,regal-edwards-boise-1027,1027,7701 W Overland Road,Boise,ID,83709,43.5904,-116.2764,(844) 462-7342,True,US/Mountain,$5.50 every Tuesday,1
+Regal Warren Moore,regal-warren-moore-1447,1447,1000 Telephone Rd.,Moore,OK,73160,35.3289,-97.4929,(844) 462-7342,False,US/Central,$5.50 every Tuesday,2
+Regal Spartan,regal-spartan-1888,1888,855 Spartan Boulevard,Spartanburg,SC,29301,34.9545,-82.0,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal South Hill,regal-south-hill-cinema-0885,0885,3500 S Meridian,Puyallup,WA,98373,47.1673,-122.2918,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal New Town,regal-new-town-1868,1868,4911 Courthouse Street,Williamsburg,VA,23188,37.276,-76.739,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Battery Park,regal-battery-park-1335,1335,102 North End Ave.,New York,NY,10282,40.7147,-74.0155,(844) 462-7342,True,US/Eastern,$8.00 every Tuesday,3
+Regal Dulles Town Center,regal-dulles-town-center-1672,1672,"21100 Dulles Town Cir, Ste 203",Sterling,VA,20164,39.0319,-77.4235,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Spokane Valley,regal-spokane-valley-0895,0895,14760 E Indiana Avenue,Spokane Valley,WA,99216,47.6708,-117.1947,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Warren Broken Arrow,regal-warren-broken-arrow-1448,1448,1700 W. Aspen Creek Dr.,Broken Arrow,OK,74011,35.9913,-95.8096,(844) 462-7342,True,US/Central,$5.00 every Tuesday,1
+Regal Nu'uuli Place Twin,regal-nuuuli-place-twin-1647,1647,202 Pago Plaza,Pago Pago,AS,96799,-14.2733,-170.7021,(844) 462-7342,False,Pacific/Pago_Pago,$5.50 every Tuesday,1
+Regal Santiam,regal-santiam-0863,0863,365 Lancaster Drive SE,Salem,OR,97317,44.9246,-122.9832,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,2
+Regal Auburn - Washington,regal-auburn-washington-0877,0877,"1101 Outlet Collection Way, Ste. 901",Auburn,WA,98001,47.2996,-122.2405,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Metropolitan,regal-metropolitan-0950,0950,901 Little Texas Lane,Austin,TX,78745,30.1982,-97.7699,(844) 462-7342,True,US/Central,$6.00 every Tuesday,1
+Regal Crossroads - Taylorsville,regal-crossroads-rpx-taylorsville-1426,1426,5516 South Redwood Road,Taylorsville,UT,84123,40.6509,-111.942,(844) 462-7342,True,US/Mountain,$5.50 every Tuesday,1
+Regal Edwards La Verne,regal-edwards-la-verne-1012,1012,1950 East Foothill Boulevard,La Verne,CA,91750,34.113,-117.7683,(844) 462-7342,False,US/Pacific,$7.00 every Tuesday,3
+Regal Kendall Village,regal-kendall-village-0996,0996,8595 S.W. 124 Avenue,Miami,FL,33183,25.6873,-80.3947,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Edwards Metro Pointe,regal-edwards-metro-pointe-1007,1007,901 South Coast Drive,Costa Mesa,CA,92626,33.6913,-117.8918,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,3
+Regal Magnolia Place,regal-magnolia-place-0339,0339,9645 Westview Drive,Coral Springs,FL,33076,26.2974,-80.2549,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal Transit Center,regal-transit-center-0294,0294,6707 Transit Road,Williamsville,NY,14221,42.9571,-78.6969,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Northtown Mall,regal-northtown-mall-0883,0883,4750 North Division Street,Spokane,WA,99207,47.701,-117.411,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal University Town Center,regal-edwards-university-town-center-1025,1025,4245 Campus Drive,Irvine,CA,92612,33.6501,-117.8386,(844) 462-7342,True,US/Pacific,$7.00 every Tuesday,3
+Regal Nitro,regal-nitro-1518,1518,12 JW Drive,Cross Lanes,WV,25313,38.4221,-81.8095,(844) 462-7342,True,US/Eastern,$5.00 every Tuesday,1
+Regal Stonecrest at Piper Glen,regal-stonecrest-piper-glen-0384,0384,7824 Rea Road,Charlotte,NC,28277,35.0604,-80.8135,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Mayfaire,regal-mayfaire-1873,1873,900 Town Center Drive,Wilmington,NC,28405,34.228,-77.83,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Manchester - Rock Hill,regal-manchester-rock-hill-1886,1886,1935 Cinema Drive,Rock Hill,SC,29730,34.945,-80.981,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Edwards Camarillo Palace,regal-edwards-camarillo-palace-1009,1009,680 Ventura Boulevard,Camarillo,CA,93010,34.2171,-119.0632,(844) 462-7342,False,US/Pacific,$6.50 every Tuesday,2
+Regal Cinema 99,regal-cinema-99-0846,0846,9010 NE Hwy 99,Vancouver,WA,98665,45.6883,-122.6628,(844) 462-7342,True,US/Pacific,$5.00 every Tuesday,2
+Regal Stark Street,regal-stark-street-0856,0856,2929 N.E. Kane Drive,Gresham,OR,97030,45.5184,-122.3971,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,2
+Regal UA Kaufman Astoria,regal-ua-kaufman-astoria-rpx-1333,1333,35-30 38th Street,Long Island City,NY,11101,40.7556,-73.9236,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,3
+Regal Division Street,regal-division-street-0851,0851,16603 SE Division St.,Portland,OR,97236,45.5046,-122.491,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,2
+Regal Bella Bottega,regal-bella-bottega-0904,0904,8890 NE 161st Avenue,Redmond,WA,98052,47.6811,-122.1232,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,2
+Regal Griffin,regal-griffin-1424,1424,1367 N. Express Way,Griffin,GA,30223,33.2694,-84.2947,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal Cinebarre West Town Mall,regal-cinebarre-west-town-mall-1462,1462,"7600 Kingston Pike, Suite 1520",Knoxville,TN,37919,35.9236,-84.0336,(844) 462-7342,False,US/Eastern,$6.50 every Tuesday,1
+Regal Celebration Pointe,regal-celebration-pointe-rpx-1416,1416,4901 Steve Spurrier Way,Gainesville,FL,32608,29.624,-82.3955,(844) 462-7342,False,US/Eastern,$6.50 every Tuesday,2
+Regal Crossroads - Bellevue,regal-crossroads-bellevue-0905,0905,1200  156th Avenue NE,Bellevue,WA,98008,47.6207,-122.131,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Garden Grove,regal-garden-grove-0364,0364,9741 Chapman Avenue,Garden Grove,CA,92841,33.7886,-117.9626,(844) 462-7342,False,US/Pacific,$6.00 every Tuesday,3
+Regal Irvine Spectrum,regal-edwards-irvine-spectrum-1010,1010,500 Spectrum Center Drive,Irvine,CA,92618,33.6512,-117.7444,(844) 462-7342,True,US/Pacific,$7.00 every Tuesday,3
+Regal Aliante,regal-aliante-1933,1933,7300 Aliante Parkway,North Las Vegas,NV,89084,36.2921,-115.1783,(844) 462-7342,True,US/Pacific,$6.25 every Tuesday,2
+Regal Elmwood Center,regal-elmwood-center-0341,0341,2001 Elmwood Avenue,Buffalo,NY,14207,42.952,-78.8782,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Simi Valley Civic Center,regal-simi-valley-civic-center-0391,0391,2751 Tapo Cyn Road,Simi Valley,CA,93063,34.286,-118.716,(844) 462-7342,False,US/Pacific,$6.50 every Tuesday,3
+Regal Georgian,regal-georgian-1891,1891,232 Newnan Crossing Bypass,Newnan,GA,30265,33.392,-84.761,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal Southpark Mall,regal-southpark-mall-1902,1902,300 Southpark Circle,Colonial Heights,VA,23834,37.2544,-77.3931,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Fairfield Commons,regal-fairfield-commons-rpx-0389,0389,2651 Fairfield Commons,Beavercreek,OH,45431,39.766,-84.0525,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Colonie Center,regal-colonie-center-rpx-1923,1923,131 Colonie Center,Albany,NY,12205,42.7117,-73.8183,(844) 462-7342,False,US/Eastern,$7.00 every Tuesday,3
+Regal White Oak,regal-white-oak-1876,1876,1205 Timber Drive East,Garner,NC,27529,35.6891,-78.5757,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Edwards Valencia,regal-edwards-valencia-1038,1038,24435 Town Center Drive,Santa Clarita,CA,91355,34.4108,-118.5608,(844) 462-7342,False,US/Pacific,$7.00 every Tuesday,3
+Regal Park Place,regal-park-place-rpx-1914,1914,7200 US Highway 19 North,Pinellas Park,FL,33781,27.837,-82.682,(844) 462-7342,True,US/Eastern,$5.00 every Tuesday,1
+Regal Edwards Mira Mesa,regal-edwards-mira-mesa-1043,1043,10733 Westview Parkway,San Diego,CA,92126,32.913,-117.1421,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,3
+Regal Grand Esplanade,regal-grand-esplanade-gpx-1480,1480,1401 W. Esplanade Ave.,Kenner,LA,70065,30.0171,-90.2506,(844) 462-7342,True,US/Central,$6.50 every Tuesday,1
+Regal Columbiana Grande,regal-columbiana-grande-1887,1887,1250 Bower Parkway,Columbia,SC,29212,34.0709,-81.1507,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Rancho Del Rey,regal-rancho-del-rey-0361,0361,1025 Tierra Del Rey,Chula Vista,CA,91910,32.6375,-117.0194,(844) 462-7342,True,US/Pacific,$5.50 every Tuesday,1
+Regal Edwards San Marcos,regal-edwards-san-marcos-1034,1034,1180 W San Marcos Boulevard,San Marcos,CA,92069,33.1337,-117.192,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,3
+Regal New Roc,regal-new-roc-0297,0297,33 Le Count Place,New Rochelle,NY,10801,40.9108,-73.7803,(844) 462-7342,True,US/Eastern,$7.50 every Tuesday,3
+Regal Edwards Brea East,regal-edwards-brea-east-1028,1028,155 West  Birch Street,Brea,CA,92821,33.919,-117.8997,(844) 462-7342,False,US/Pacific,$6.50 every Tuesday,3
+Regal Destiny USA,regal-destiny-usa-1733,1733,9586 Destiny USA Drive,Syracuse,NY,13204,43.0683,-76.1707,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Westview,regal-westview-1910,1910,5243 Buckeystown Pike,Frederick,MD,21704,39.3741,-77.413,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,2
+Regal Hamilton Commons,regal-hamilton-commons-1729,1729,"4215 Black Horse Pike, Lot 600",Mays Landing,NJ,08330,39.451,-74.643,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,2
+Regal Willoughby Commons,regal-willoughby-commons-0381,0381,36655 Euclid Avenue,Willoughby,OH,44094,41.6284,-81.4234,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Pavilion,regal-pavilion-rpx-1613,1613,5547 S Williamson Blvd,Port Orange,FL,32128,29.1099,-81.0337,(844) 462-7342,True,US/Eastern,$5.50 every Tuesday,1
+Regal Palm Springs,regal-palm-springs-1802,1802,789 E Tahquitz Canyon Way,Palm Springs,CA,92262,33.8227,-116.5399,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,2
+Regal Kingstowne,regal-kingstowne-rpx-1865,1865,5910 Kingstowne Towne Center,Alexandria,VA,22315,38.7694,-77.1428,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,3
+Regal Carlsbad,regal-carlsbad-1778,1778,2501 El Camino Real,Carlsbad,CA,92008,33.1786,-117.329,(844) 462-7342,False,US/Pacific,$6.50 every Tuesday,3
+Regal West Ridge,regal-west-ridge-1619,1619,1727 SW Wanamaker Rd,Topeka,KS,66604,39.0355,-95.7617,(844) 462-7342,True,US/Central,$5.50 every Tuesday,1
+Regal Interquest,regal-interquest-rpx-1609,1609,1120 Interquest Pkwy,Colorado Springs,CO,80920,38.9878,-104.7924,(844) 462-7342,True,US/Mountain,$6.00 every Tuesday,1
+Regal Wekiva Riverwalk,regal-wekiva-riverwalk-1258,1258,2141 North Semoran Blvd,Apopka,FL,32703,28.6728,-81.4706,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Mashpee Commons,regal-mashpee-commons-1718,1718,15 Steeple Street,Mashpee,MA,02649,41.6185,-70.4877,(844) 462-7342,False,US/Eastern,$7.00 every Tuesday,2
+Regal Riviera,regal-riviera-0690,0690,510 South Gay Street,Knoxville,TN,37902,35.9658,-83.9185,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Ithaca Mall,regal-ithaca-mall-0677,0677,40 Catherwood Road,Ithaca,NY,14850,42.484,-76.488,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,3
+Regal Rancho Mirage,regal-rancho-mirage-1801,1801,72-777 Dinah Shore Drive,Rancho Mirage,CA,92270,33.7998,-116.3927,(844) 462-7342,True,US/Pacific,$6.25 every Sunday & Tuesday,2
+Regal Guam,regal-guam-megaplex-1645,1645,235 Pass St.,Tamuning,GU,96911,13.484,144.7765,(844) 462-7342,True,Pacific/Guam,$5.50 every Tuesday,1
+Regal Bowling Green,regal-bowling-green-1525,1525,323 Great Escape Drive,Bowling Green,KY,42101,36.9655,-86.4722,(844) 462-7342,True,US/Central,$6.50 every Tuesday,2
+Regal Gallatin Valley,regal-gallatin-valley-1625,1625,2825 W. Main Street,Bozeman,MT,59715,45.671,-111.079,(844) 462-7342,True,US/Mountain,$7.00 every Tuesday,1
+Regal Perimeter Pointe,regal-perimeter-pointe-1309,1309,1155 Mt. Vernon Highway,Atlanta,GA,30338,33.9344,-84.3501,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal Hollywood - Gainesville,regal-hollywood-cinemas-gainesville-1421,1421,120 Green Hill Circle NW,Gainesville,GA,30504,34.2952,-83.8568,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal American Mall,regal-american-mall-0680,0680,2830 West Elm Street,Lima,OH,45805,40.7378,-84.1655,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Riverstone,regal-riverstone-0654,0654,2416 Old Mill Loop,Coeur d'Alene,ID,83814,47.6956,-116.8088,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Walden Galleria,regal-walden-galleria-rpx-0675,0675,TH201 - Walden Galleria,Buffalo,NY,14225,42.9109,-78.7629,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Azalea Square,regal-azalea-square-rpx-1850,1850,215 Azalea Square Blvd,Summerville,SC,29483,33.0374,-80.1608,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal Visalia,regal-visalia-1821,1821,120 S Bridge Street,Visalia,CA,93291,36.3302,-119.288,(844) 462-7342,True,US/Pacific,$5.50 every Tuesday,1
+Regal Royal Park,regal-royal-park-1860,1860,3702 W. Newberry Road,Gainesville,FL,32607,29.6539,-82.3801,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Shiloh Crossing,regal-shiloh-crossing-0190,0190,"10400 East US 36, STE 800",Avon,IN,46123,39.7662,-86.3391,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Edwards Long Beach,regal-edwards-long-beach-1042,1042,7501 East Carson,Long Beach,CA,90808,33.8314,-118.0878,(844) 462-7342,True,US/Pacific,$6.50 every Sunday & Tuesday,3
+Regal Cinema South,regal-cinema-south-0175,0175,7420 South Ave,Youngstown,OH,44512,41.0103,-80.6345,(844) 462-7342,False,US/Eastern,$6.00 every Tuesday,1
+Regal Aiken Mall,regal-aiken-mall-0252,0252,300 East Gate Drive,Aiken,SC,29802,33.5042,-81.7173,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal South Beach,regal-south-beach-0482,0482,1120 Lincoln Road Mall,Miami Beach,FL,33139,25.7897,-80.1402,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Green Hills,regal-green-hills-0513,0513,3815 Greenhills Village Drive,Nashville,TN,37215,36.1079,-86.8165,(844) 462-7342,True,US/Central,$6.50 every Tuesday,3
+Regal Covington,regal-covington-1620,1620,69348 Louisiana State Hwy 21,Covington,LA,70433,30.4583,-90.1399,(844) 462-7342,True,US/Central,$5.50 every Tuesday,1
+Regal Pioneer Place,regal-pioneer-place-0656,0656,340 SW Morrison Street,Portland,OR,97204,45.518,-122.675,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Cross Keys,regal-cross-keys-0167,0167,151 American Blvd.,Turnersville,NJ,08012,39.7227,-75.0333,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Star,regal-star-1639,1639,4455 Dowlen Rd,Beaumont,TX,77706,30.1222,-94.1575,(844) 462-7342,True,US/Central,$5.50 every Tuesday,1
+Regal Hamilton Place,regal-hamilton-place-0117,0117,2000 Hamilton Place Boulevard,Chattanooga,TN,37421,35.0376,-85.1563,(844) 462-7342,False,US/Eastern,$6.00 every Tuesday,1
+Regal Manchester - Fresno,regal-manchester-fresno-1820,1820,2055 E Shields Avenue,Fresno,CA,93726,36.7819,-119.786,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Union Square,regal-union-square-screenx-4dx-1320,1320,850 Broadway,New York,NY,10003,40.734,-73.9912,(844) 462-7342,True,US/Eastern,$8.00 every Tuesday,3
+Regal Dole Cannery,regal-dole-cannery-1828,1828,735 B Iwilei Road,Honolulu,HI,96817,21.3191,-157.8719,(844) 462-7342,True,US/Hawaii,$6.50 every Tuesday,2
+Regal Harrisburg,regal-harrisburg-1748,1748,1500 Caughey Dr,Harrisburg,PA,17112,40.31,-76.8366,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Independence Mall,regal-independence-mall-rpx-1717,1717,101 Kingston Collection Way,Kingston,MA,02364,41.9716,-70.7175,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,2
+Regal Edwards Eastvale Gateway,regal-edwards-eastvale-gateway-1916,1916,12285 Limonite Avenue,Eastvale,CA,91752,33.977,-117.5539,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Hollywood - St. Joseph,regal-hollywood-st-joseph-1624,1624,5405 N. Belt Hwy Bldg M,St Joseph,MO,64506,39.8146,-94.8148,(844) 462-7342,True,US/Central,$7.00 every Tuesday,1
+Regal Opry Mills,regal-opry-mills-0615,0615,570 Opry Mills Drive,Nashville,TN,37214,36.2008,-86.6905,(844) 462-7342,True,US/Central,$6.50 every Tuesday,3
+Regal Bartlesville,regal-bartlesville-movies-1630,1630,100  Washington Park Mall,Bartlesville,OK,74006,36.7567,-95.9353,(844) 462-7342,True,US/Central,$5.50 every Tuesday,1
+Regal Barkley Village,regal-barkley-village-1671,1671,3005 Cinema Place,Bellingham,WA,98226,48.7712,-122.4465,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal UA Olympus Pointe,regal-ua-olympus-pointe-1285,1285,520 N. Sunrise Avenue,Roseville,CA,95661,38.7481,-121.264,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,2
+Regal Oakmont,regal-oakmont-0444,0444,4801 Cortez Road W,Bradenton,FL,34210,27.4622,-82.6149,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Bridgeport Village,regal-bridgeport-village-0652,0652,7329 SW Bridgeport Road,Tigard,OR,97224,45.3969,-122.7511,(844) 462-7342,True,US/Pacific,$6.25 every Tuesday,2
+Regal UA Colorado Center,regal-ua-colorado-center-1308,1308,"2000 S. Colorado Blvd, Suite C",Denver,CO,80222,39.6803,-104.9402,(844) 462-7342,True,US/Mountain,$6.00 every Tuesday,2
+Regal Fox Run,regal-fox-run-rpx-1728,1728,45 Gosling Road,Newington,NH,03801,43.0913,-70.8008,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Westbury,regal-westbury-1273,1273,7000 Brush Hollow Road,Westbury,NY,11590,40.7767,-73.5596,(844) 462-7342,False,US/Eastern,$7.50 every Tuesday,3
+Regal UA Denver Pavilions,regal-ua-denver-pavilions-rpx-1315,1315,500 16Th Street #310,Denver,CO,80202,39.7439,-104.9901,(844) 462-7342,True,US/Mountain,$6.00 every Tuesday,2
+Regal UA King Of Prussia,regal-ua-king-of-prussia-1329,1329,300 Goddard Blvd,King Of Prussia,PA,19406,40.0908,-75.3866,(844) 462-7342,False,US/Eastern,$7.00 every Tuesday,2
+Regal Saipan,regal-saipan-megaplex-1646,1646,"2860 Costco Dr, Box 2109",Saipan,MP,96950,15.171,145.71249,(844) 462-7342,False,Pacific/Guam,$5.50 every Tuesday,1
+Regal Cinebarre Boulder,regal-cinebarre-boulder-1411,1411,1164 W. Dillon Road,Louisville,CO,80027,39.9603,-105.1676,(844) 462-7342,True,US/Mountain,$5.50 every Tuesday,1
+Regal Eagle Ridge Mall,regal-eagle-ridge-mall-0466,0466,955 Eagle Ridge Drive & Hwy 27,Lake Wales,FL,33859,27.9537,-81.6111,(844) 462-7342,True,US/Eastern,$5.50 every Tuesday,1
+Regal McDonough,regal-mcdonough-1519,1519,115 Foster Drive,McDonough,GA,30253,33.4653,-84.2066,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Hollywood - Sarasota,regal-hollywood-sarasota-0467,0467,1993 Main Street,Sarasota,FL,34236,27.3373,-82.5316,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal UA Cortlandt Town Center,regal-ua-cortlandt-town-center-1318,1318,3131 East Main Street,Mohegan Lake,NY,10547,41.3199,-73.8573,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,3
+Regal Edwards Corona Crossings,regal-edwards-corona-crossings-rpx-0665,0665,2650 Tuscany Street,Corona,CA,92881,33.8234,-117.5139,(844) 462-7342,True,US/Pacific,$5.00 every Tuesday,2
+Regal Southland Mall,regal-southland-mall-0683,0683,20505 S Dixie Hwy Suite 1301,Miami,FL,33189,25.5772,-80.3689,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal Ronkonkoma,regal-ronkonkoma-0632,0632,565 Portion Road,Ronkonkoma,NY,11779,40.8307,-73.0913,(844) 462-7342,False,US/Eastern,$7.50 every Tuesday,3
+Regal Deer Park,regal-deer-park-0692,0692,1050 The Arches Circle,Deer Park,NY,11729,40.7624,-73.3095,(844) 462-7342,True,US/Eastern,$7.50 every Tuesday,3
+Regal Martin Village,regal-martin-village-0673,0673,5400 East Martin Way,Lacey,WA,98516,47.0502,-122.8084,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,2
+Regal Willamette Town Center,regal-willamette-town-center-0679,0679,831 Lancaster Dr NE Suite #8,Salem,OR,97301,44.9415,-122.9831,(844) 462-7342,False,US/Pacific,$6.25 every Tuesday,2
+Regal La Habra,regal-la-habra-0704,0704,1351 W. Imperial Hwy,La Habra,CA,90631,33.917,-117.9608,(844) 462-7342,False,US/Pacific,$6.00 every Tuesday,2
+Regal Keauhou,regal-keauhou-1830,1830,78-6831 Ali'l Drive Suite 342,Keauhou-Kona,HI,96740,19.5767,-155.9687,(844) 462-7342,True,US/Hawaii,$6.50 every Tuesday,2
+Regal Stockton Holiday,regal-stockton-holiday-cinema-1816,1816,6262 N West Lane,Stockton,CA,95210,38.0121,-121.2937,(844) 462-7342,True,US/Pacific,$5.50 every Tuesday,1
+Regal Webster Place,regal-webster-place-1793,1793,1471 W. Webster Avenue,Chicago,IL,60614,41.9215,-87.6656,(844) 462-7342,False,US/Central,$7.00 every Tuesday,2
+Regal Hollywood - Ocala,regal-hollywood-ocala-0483,0483,2801 SW 27th Avenue,Ocala,FL,34474,29.1597,-82.1689,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Boulevard Centre,regal-boulevard-centre-0183,0183,24 Boulevard Centre,Niles,OH,44446,41.2109,-80.7526,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Lansing Mall,regal-lansing-mall-rpx-0596,0596,5330 West Saginaw Highway,Lansing,MI,48917,42.7433,-84.629,(844) 462-7342,True,US/Eastern,$5.00 every Tuesday,1
+Regal Red Rock,regal-red-rock-0659,0659,11011 West Charleston Blvd,Las Vegas,NV,89135,36.1566,-115.3333,(844) 462-7342,True,US/Pacific,$7.00 every Tuesday,2
+Regal Salisbury,regal-salisbury-rpx-0674,0674,2322 North Salisbury Blvd,Salisbury,MD,21801,38.389,-75.578,(844) 462-7342,True,US/Eastern,$7.50 every Tuesday,3
+Regal Virginia Center,regal-virginia-center-0165,0165,10091 Jeb Stuart Parkway,Glen Allen,VA,23060,37.665,-77.4585,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Crystal Lake Showplace,regal-crystal-lake-showplace-0621,0621,5000 W. Route 14,Crystal Lake,IL,60014,42.2278,-88.2946,(844) 462-7342,True,US/Central,$5.00 every Tuesday,2
+Regal Independence,regal-independence-0238,0238,1210 Independence Ave.,Akron,OH,44310,41.1109,-81.4708,(844) 462-7342,False,US/Eastern,$6.00 every Tuesday,1
+Regal Stockton City Center,regal-stockton-city-center-1817,1817,222 N El Dorado Street,Stockton,CA,95202,37.955,-121.2897,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal East Greenbush,regal-east-greenbush-1738,1738,279 Troy Rd,Rensselaer,NY,12144,42.6335,-73.7018,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,3
+Regal Fox Theater,regal-fox-theater-1655,1655,505 S 20th St,Laramie,WY,82070,41.3107,-105.5904,(844) 462-7342,True,US/Mountain,$5.50 every Tuesday,1
+Regal Augusta,regal-augusta-1704,1704,23 Market Place Dr,Augusta,ME,04330,44.3419,-69.7907,(844) 462-7342,False,US/Eastern,$7.00 every Tuesday,2
+Regal Fairfax Towne Center,regal-fairfax-towne-center-1275,1275,"4110 West Ox Rd, Suite 12110",Fairfax,VA,22033,38.865,-77.3679,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Bellingham,regal-bellingham-1713,1713,259 Hartford Ave,Bellingham,MA,02019,42.1143,-71.4733,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,3
+Regal Quaker Crossing,regal-quaker-crossing-0700,0700,3450 Amelia Drive,Orchard Park,NY,14127,42.7892,-78.7741,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Pinnacle,regal-pinnacle-0682,0682,11240 Parkside Drive,Knoxville,TN,37922,35.90011,-84.15576,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Tall Firs,regal-tall-firs-0330,0330,20751 State Route 410 E,Bonneylake,WA,98390,47.1684,-122.1516,(844) 462-7342,True,US/Pacific,$6.25 every Tuesday,2
+Regal Riverside Plaza,regal-riverside-plaza-1806,1806,3535 Riverside Plaza Drive,Riverside,CA,92506,33.955,-117.3877,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,3
+Regal Columbia,regal-columbia-rpx-1621,1621,2800 Goodwin Point,Columbia,MO,65201,38.9211,-92.2989,(844) 462-7342,True,US/Central,$6.00 every Tuesday,1
+Regal Concord,regal-concord-1725,1725,282 Louden Rd,Concord,NH,03301,43.2246,-71.4894,(844) 462-7342,True,US/Eastern,$5.95 every Tuesday,2
+Regal Wilder,regal-wilder-1526,1526,103 Crossing Drive,Wilder,KY,41076,39.024,-84.448,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Binghamton,regal-binghamton-1732,1732,900 Front St,Binghamton,NY,13905,42.1339,-75.9055,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Hacienda Crossings,regal-hacienda-crossings-0347,0347,5000 Dublin Blvd,Dublin,CA,94568,37.705,-121.886,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,3
+Regal Everett,regal-everett-rpx-0663,0663,1402 Everett Mall Way #133,Everett,WA,98208,47.9089,-122.2136,(844) 462-7342,True,US/Pacific,$7.00 every Tuesday,2
+Regal Mall Of Georgia,regal-mall-of-georgia-0701,0701,"3333 Buford Drive, Suite 3000",Buford,GA,30519,34.0665,-83.9834,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal UA Laguna Village,regal-ua-laguna-village-1286,1286,8755 Center Parkway Drive,Sacramento,CA,95823,38.4384,-121.4205,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Broward,regal-broward-rpx-1762,1762,8000 West Broward Blvd. #1840,Plantation,FL,33324,26.1162,-80.2539,(844) 462-7342,True,US/Eastern,$5.50 every Tuesday,1
+Regal Valley View Grande,regal-valley-view-grande-1867,1867,4730 Valley View Boulevard,Roanoke,VA,24012,37.3087,-79.9627,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal Bolingbrook,regal-bolingbrook-1787,1787,1221 W. Boughton Road,Bolingbrook,IL,60440,41.7034,-88.1208,(844) 462-7342,True,US/Central,$6.00 every Tuesday,2
+Regal UA Cinema 90,regal-ua-cinema-90-1214,1214,2830 Highway 90 West,Lake City,FL,32055,30.18,-82.6805,(844) 462-7342,False,US/Eastern,$6.50 every Tuesday,1
+Regal Gulf Coast,regal-gulf-coast-0684,0684,10028 Gulf Center Drive,Fort Myers,FL,33913,26.4852,-81.788,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal Waugh Chapel,regal-waugh-chapel-0542,0542,1419 S. Main Chapel Way,Gambrills,MD,21054,39.0377,-76.6798,(844) 462-7342,False,US/Eastern,$7.00 every Tuesday,2
+Regal Gilbert,regal-gilbert-1606,1606,1012 S. Gilbert Rd.,Gilbert,AZ,85296,33.3293,-111.79,(844) 462-7342,True,US/Arizona,$5.50 every Tuesday,1
+Regal Hadley,regal-hadley-theatre-0370,0370,1000 Corporate CT,South Plainfield,NJ,07080,40.5499,-74.4241,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Palladium,regal-palladium-1870,1870,5830 Samet Drive,High Point,NC,27265,36.03,-79.96,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Fox Tower,regal-fox-tower-0633,0633,846 S.W. Park Ave,Portland,OR,97205,45.5186,-122.6811,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Palmetto Grande,regal-palmetto-grande-1884,1884,1319 Theatre Drive,Mount Pleasant,SC,29464,32.8245,-79.8388,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal UA Hampton Bays,regal-ua-hampton-bays-1313,1313,119 W. Montauk Highway,Hampton Bays,NY,11946,40.8624,-72.5602,(844) 462-7342,False,US/Eastern,$7.50 every Tuesday,3
+Regal Hollywood - Port Richey,regal-hollywood-port-richey-0418,0418,6701 Cinema Drive (34668),Port Richey,FL,34668,28.3062,-82.7052,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Lynbrook,regal-lynbrook-rpx-1348,1348,321 Merrick Road,Lynbrook,NY,11563,40.6573,-73.6716,(844) 462-7342,False,US/Eastern,$7.50 every Tuesday,3
+Regal Edgmont Square,regal-edgmont-square-0232,0232,4777 W Chester Pike,Newtown Square,PA,19073,39.9753,-75.4405,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Pohatcong,regal-pohatcong-0378,0378,1246 US Highway 22,Phillipsburg,NJ,08865,40.678,-75.1472,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Edwards Houston Marq'E,regal-edwards-houston-marqe-1052,1052,7600 Katy Freeway,Houston,TX,77024,29.7842,-95.4783,(844) 462-7342,True,US/Central,$6.00 every Tuesday,2
+Regal UA Sheepshead Bay,regal-ua-sheepshead-bay-1159,1159,3907 Shore Pkwy,Brooklyn,NY,11235,40.5858,-73.931,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,3
+Regal Greenwood Mall,regal-greenwood-mall-1581,1581,2625 Scottsville Rd.,Bowling Green,KY,42103,36.9415,-86.4214,(844) 462-7342,True,US/Central,$6.50 every Tuesday,2
+Regal Majestic,regal-majestic-1862,1862,900 Ellsworth Drive,Silver Spring,MD,20910,38.999,-77.0265,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,2
+Regal Cape Cod Mall,regal-cape-cod-mall-1715,1715,793 Iyannough Road,Hyannis,MA,02601,41.669,-70.2961,(844) 462-7342,False,US/Eastern,$6.50 every Tuesday,2
+Regal Downingtown,regal-downingtown-0385,0385,100 Quarry Road,Downingtown,PA,19335,40.0132,-75.677,(844) 462-7342,True,US/Eastern,$6.75 every Tuesday,2
+Regal Valley River Center,regal-valley-river-center-0670,0670,500 Valley River Center,Eugene,OR,97401,44.0686,-123.1053,(844) 462-7342,True,US/Pacific,$5.00 every Tuesday,1
+Regal Arbor Place,regal-arbor-place-0392,0392,6600 Douglas Blvd.,Douglasville,GA,30135,33.7215,-84.7748,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal Laurel Towne Centre,regal-laurel-towne-centre-0563,0563,14716 Baltimore Ave,Laurel,MD,20707,39.0945,-76.8583,(844) 462-7342,True,US/Eastern,$7.25 every Tuesday,2
+Regal MGM Springfield,regal-mgm-springfield-1467,1467,1 MGM Way,Springfield,MA,01103,42.0989,-72.5864,(844) 462-7342,False,US/Eastern,$6.50 every Tuesday,2
+Regal Regency Panama City,regal-regency-panama-city-1859,1859,1515 W. 23rd St.,Panama City,FL,32406,30.1894,-85.6848,(844) 462-7342,False,US/Central,$6.50 every Tuesday,2
+Regal Oakwood,regal-oakwood-0463,0463,2800 Oakwood Blvd,Hollywood,FL,33020,26.0345,-80.1604,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal Nanuet,regal-nanuet-rpx-0558,0558,6201 Fashion Drive,Nanuet,NY,10954,41.0969,-74.0129,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,3
+Regal Oviedo Mall,regal-oviedo-mall-0380,0380,1500 Oviedo Marketplace Blvd,Oviedo,FL,32765,28.6551,-81.2345,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Edwards Santa Maria & RPX,regal-edwards-santa-maria-rpx-1681,1681,100 Town Center East,Santa Maria,CA,93454,34.9512,-120.4343,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,2
+Regal Louisiana Boardwalk,regal-louisiana-boardwalk-0664,0664,2 River Colony Drive,Bossier City,LA,71111,32.5158,-93.7368,(844) 462-7342,True,US/Central,$5.50 every Tuesday,1
+Regal Germantown,regal-germantown-1710,1710,20000 Century Blvd,Germantown,MD,20874,39.1829,-77.2628,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,2
+Regal Avalon,regal-avalon-1694,1694,3950 1st Street,Alpharetta,GA,30009,34.0718,-84.2765,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,2
+Regal Morgantown,regal-morgantown-1644,1644,1001 Mountaineer Dr,Morgantown,WV,26501,39.6554,-80.0033,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Burlington,regal-burlington-0198,0198,250 Bromley Boulevard,Burlington,NJ,08016,40.0397,-74.8205,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Green Valley Ranch,regal-green-valley-ranch-0637,0637,2300 Paseo Verde,Henderson,NV,89052,36.0218,-115.0811,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,2
+Regal Royal Palm Beach,regal-royal-palm-beach-rpx-0351,0351,1003 State Road 7,Royal Palm Beach,FL,33411,26.6943,-80.2019,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Lake Zurich,regal-lake-zurich-0620,0620,755 S. Rand Road,Lake Zurich,IL,60047,42.1825,-88.0833,(844) 462-7342,True,US/Central,$6.50 every Tuesday,2
+Regal Macarthur Center,regal-macarthur-center-rpx-0365,0365,"300 Monticello Avenue, Ste 330",Norfolk,VA,23510,36.85,-76.29,(844) 462-7342,True,US/Eastern,$5.25 every Tuesday,1
+Regal Downtown West,regal-downtown-west-cinema-0103,0103,1640 Downtown West Blvd.,Knoxville,TN,37919,35.922,-84.0509,(844) 462-7342,True,US/Eastern,$5.50 every Tuesday,1
+Regal Starlight - Charlotte,regal-starlight-charlotte-1848,1848,11240 US Hwy 29,Charlotte,NC,28262,35.3338,-80.7176,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Ballston Quarter,regal-ballston-quarter-0296,0296,671 N. Glebe Road,Arlington,VA,22203,38.8778,-77.1106,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,2
+Regal Village At The Peaks,regal-village-at-the-peaks-rpx-1673,1673,1230 S Hover Road,Longmont,CO,80501,40.1476,-105.127,(844) 462-7342,True,US/Pacific,$6.00 every Tuesday,2
+Regal Northampton,regal-northampton-cinema-rpx-0371,0371,3720 Easton-Nazareth Highway,Easton,PA,18045,40.7142,-75.2822,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,2
+Regal Belltower,regal-belltower-0432,0432,13499 Belltower Drive,Ft Myers,FL,33907,26.5472,-81.8678,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal Hollywood - Nashville,regal-hollywood-rpx-nashville-0489,0489,719 Thompson Ln,Nashville,TN,37204,36.1122,-86.7666,(844) 462-7342,True,US/Central,$6.50 every Tuesday,3
+Regal UA Circle Centre,regal-ua-circle-centre-1291,1291,"49 West Maryland St, Suite 221",Indianapolis,IN,46204,39.7654,-86.1594,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,1
+Regal Rockville Center,regal-rockville-center-0336,0336,199 East Montgomery Avenue,Rockville,MD,20850,39.0833,-77.1502,(844) 462-7342,True,US/Eastern,$7.50 every Tuesday,2
+Regal Atlas Park,regal-atlas-park-0688,0688,"80-28 Cooper Ave, Suite #6216",Glendale,NY,11385,40.709,-73.8705,(844) 462-7342,False,US/Eastern,$7.50 every Tuesday,3
+Regal Longston Place,regal-longston-place-0355,0355,13317 Meridan St. East,Puyallup,WA,98373,47.1357,-122.2917,(844) 462-7342,True,US/Pacific,$6.25 every Tuesday,2
+Regal Summerlin Luxury,regal-summerlin-luxury-0575,0575,2070 Park Center Drive,Las Vegas,NV,89135,36.149,-115.332,(844) 462-7342,False,US/Pacific,$7.00 every Tuesday,3
+Regal Springfield Town Center,regal-springfield-town-center-0595,0595,6859 Springfield Mall,Springfield,VA,22150,38.7731,-77.174,(844) 462-7342,False,US/Eastern,$7.00 every Tuesday,3
+Regal Warrington Crossing,regal-warrington-crossing-0379,0379,"104 Easton Rd., Bldg F",Warrington,PA,18976,40.2164,-75.143,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Parkway Plaza,regal-parkway-plaza-0388,0388,405 Parkway Plaza,El Cajon,CA,92020,32.8036,-116.9676,(844) 462-7342,True,US/Pacific,$6.50 every Tuesday,3
+Regal Peoples Plaza,regal-peoples-plaza-0133,0133,1100 Peoples Plaza,Newark,DE,19702,39.597,-75.7512,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Grand Central Mall,regal-grand-central-mall-0115,0115,700 Grand Central Mall,Vienna,WV,26105,39.305,-81.5506,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,1
+Regal Cumberland Mall,regal-cumberland-mall-0244,0244,3849 South Delsea,Vineland,NJ,08360,39.4315,-75.0411,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,2
+Regal Crocker Park,regal-crocker-park-0155,0155,30147 Detroit Road,Westlake,OH,44145,41.4632,-81.9541,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Boone,regal-boone-cinema-0217,0217,210 New Market Street Centre,Boone,NC,28607,36.2203,-81.6592,(844) 462-7342,True,US/Eastern,$5.50 every Tuesday,1
+Regal Kiln Creek,regal-kiln-creek-0161,0161,100 Regal Way,Newport News,VA,23602,37.1106,-76.4735,(844) 462-7342,True,US/Eastern,$5.00 every Tuesday,1
+Regal Medlock Crossing,regal-medlock-crossing-rpx-0354,0354,"9700 Medlock Bridge Rd, St 170",Duluth,GA,30097,34.018,-84.1902,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,2
+Regal Commerce Center,regal-commerce-center-rpx-0705,0705,2399 Route 1 South,North Brunswick,NJ,08902,40.4427,-74.5053,(844) 462-7342,True,US/Eastern,$5.50 every Tuesday,2
+Regal Avenues,regal-avenues-4dx-rpx-0241,0241,9525 Phillips Highway,Jacksonville,FL,32256,30.1927,-81.5647,(844) 462-7342,True,US/Eastern,$5.50 every Tuesday,1
+Regal Village Park,regal-village-park-0147,0147,2222 East 146th Street,Carmel,IN,46033,40.0003,-86.1212,(844) 462-7342,True,US/Eastern,$5.00 every Tuesday,1
+Regal Canyon View,regal-canyon-view-0698,0698,648 Market Street,Grand Junction,CO,81505,39.0928,-108.6053,(844) 462-7342,True,US/Mountain,$6.00 every Tuesday,2
+Regal Arnot Mall,regal-arnot-mall-1730,1730,3300 Chambers Rd,Horseheads,NY,14845,42.1542,-76.8758,(844) 462-7342,False,US/Eastern,$6.50 every Tuesday,2
+Regal Manahawkin,regal-manahawkin-1754,1754,733 Route 72 East,Manahawkin,NJ,08050,39.7111,-74.2789,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,2
+Regal El Dorado Hills,regal-el-dorado-hills-1807,1807,2101 Vine Street,El Dorado Hills,CA,95762,38.652,-121.0621,(844) 462-7342,True,US/Pacific,$5.00 every Tuesday,2
+Regal Culpeper,regal-culpeper-1913,1913,210 S Main Street,Culpeper,VA,22701,38.4727,-77.9964,(844) 462-7342,False,US/Eastern,$7.00 every Tuesday,2
+Regal Clifton Park,regal-clifton-park-rpx-1769,1769,22 Clifton Country Road,Clifton Park,NY,12065,42.8605,-73.781,(844) 462-7342,False,US/Eastern,$6.50 every Tuesday,3
+Regal Tullahoma,regal-tullahoma-0120,0120,2221 N. Jackson Street,Tullahoma,TN,37388,35.3915,-86.2455,(844) 462-7342,False,US/Central,$5.50 every Tuesday,1
+Regal Starlight - Anderson,regal-starlight-anderson-1853,1853,141 Interstate Boulevard,Anderson,SC,29621,34.5757,-82.7083,(844) 462-7342,True,US/Eastern,$5.00 every Tuesday,1
+Regal Northlake Village,regal-northlake-village-1889,1889,929 North Lake Drive,Lexington,SC,29072,33.9933,-81.2313,(844) 462-7342,True,US/Eastern,$6.00 every Tuesday,1
+Regal Crossgates,regal-crossgates-1737,1737,120 B Washington Avenue Ext,Albany,NY,12203,42.6891,-73.853,(844) 462-7342,True,US/Eastern,$7.00 every Tuesday,3
+Regal Tyler Rose,regal-tyler-rose-1635,1635,1250 Loop 323 South SW,Tyler,TX,75701,32.3369,-95.3402,(844) 462-7342,True,US/Central,$5.50 every Tuesday,1
+Regal Waterford,regal-waterford-1703,1703,123 Cross Rd,Waterford,CT,06385,41.3677,-72.1659,(844) 462-7342,False,US/Eastern,$7.00 every Tuesday,2
+Regal Forum,regal-forum-1653,1653,1101 E. 18th Street,Rolla,MO,65401,37.958,-91.7594,(844) 462-7342,False,US/Central,$6.00 every Tuesday,1
+Regal Killeen,regal-killeen-1636,1636,2501 E. Central Texas Expwy,Killeen,TX,76543,31.0896,-97.7162,(844) 462-7342,True,US/Central,$5.50 every Tuesday,1
+Regal Prince Kuhio,regal-prince-kuhio-1652,1652,111 East Puainako Street,Hilo,HI,96720,19.6983,-155.0649,(844) 462-7342,True,US/Hawaii,$6.50 every Tuesday,2
+Regal Birkdale,regal-birkdale-rpx-1842,1842,16950 Birkdale Commons Pkwy,Huntersville,NC,28078,35.4466,-80.8776,(844) 462-7342,True,US/Eastern,$5.50 every Tuesday,1
+Regal Commonwealth,regal-commonwealth-1864,1864,5001 Commonwealth Centre Pkwy,Midlothian,VA,23112,37.4179,-77.6303,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Hudson,regal-hudson-cinema-0164,0164,5339 Darrow Road,Hudson,OH,44236,41.211,-81.4405,(844) 462-7342,False,US/Eastern,$6.25 every Tuesday,1
+Regal Butler Town Center,regal-butler-town-center-0219,0219,3101 SW 35th Blvd Butler Plaza,Gainesville,FL,32608,29.6241,-82.3736,(844) 462-7342,True,US/Eastern,$6.50 every Tuesday,2
+Regal Paseo,regal-paseo-1485,1485,300 E Colorado Blvd.,Pasadena,CA,91101,34.14515,-118.14367,(844) 462-7342,True,US/Pacific,$7.00 every Tuesday,3
