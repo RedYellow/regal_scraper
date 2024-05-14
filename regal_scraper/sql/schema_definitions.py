@@ -1,7 +1,7 @@
-theatres_schema ="""CREATE TABLE theatres(
+theatres_schema ="""CREATE TABLE IF NOT EXISTS theatres (
 	name TEXT,
 	path_name TEXT,
-	theatre_code TEXT,
+	theatre_code TEXT PRIMARY KEY,
 	message_start TEXT,
 	message_end TEXT,
 	message_title TEXT,
@@ -15,4 +15,7 @@ theatres_schema ="""CREATE TABLE theatres(
 	phone_number TEXT,
 	pwp_availability INTEGER,
 	iana_timezone TEXT,
+	value_day_text TEXT,
+	unlimited_tier INTEGER
+    );
     """
